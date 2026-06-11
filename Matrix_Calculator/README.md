@@ -2,7 +2,7 @@
 
 ## Description
 
-A matrix calculator developed in C that performs various matrix operations.
+A menu-driven matrix calculator developed in C that performs various matrix operations.
 
 ## Features
 
